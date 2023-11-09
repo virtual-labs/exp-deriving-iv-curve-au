@@ -31,12 +31,26 @@
 
 
     {
-      "question": "3. Power density depends on:",
+      "question": "3. In the simulator, the cathode chamber is filled with:",
       "answers": {
-        "a": "Current density",
-        "b": "Voltage",
-        "c": "Surface area of electrodes",
-        "d": "All the above"
+        "a": "Wastewater",
+        "b": "Nutrient broth",
+        "c": "KMO4 solution",
+        "d": "Cold water"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+
+    {
+      "question": "4. The proton exchange membrane in the MFC can be:",
+      "answers": {
+        "a": "Nutrient agar",
+        "b": "Nafion",
+        "c": "Nutrient broth",
+        "d": "Either nutrient agar or Nafion"
       },
       
       "correctAnswer": "d",
@@ -45,29 +59,13 @@
 
 
     {
-      "question": "4. Point of intersection of polarization curve indicates:",
+      "question": "5. In the simulator, the voltage production is changing in accordance with the electrode selction",
       "answers": {
-        "a": "Maximum power",
-        "b": "Minimum power",
-        "c": "Maximum voltage",
-        "d": "Minimum voltage"
+        "a": "True",
+        "b": "False"
       },
       
       "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-
-
-    {
-      "question": "5. Polarization curve denotes",
-      "answers": {
-        "a": "Voltage density and internal resistance",
-        "b": "Current density as a function of voltage",
-        "c": "Current density and internal resistance",
-        "d": "Power generation and ohmic resistance"
-      },
-      
-      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
