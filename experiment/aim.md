@@ -5,4 +5,3 @@
 •	To learn voltage and current measurement in MFC using cost-effective laboratory standards.
 
 •	To plot current and voltage curve over time and to analyse the variations and correlations in I-V current depending on the input parameters. 
-
